@@ -4,3 +4,4 @@
 - 🌱 Atualmente aprendendo mais sobre Git, GitHub e desenvolvimento web.
 - 📫 Você pode me encontrar no LinkedIn:
 - 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Gosto bastante de jogos web 3!
